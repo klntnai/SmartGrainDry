@@ -1,0 +1,12 @@
+# filepath: c:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\render.yml
+services:
+  - type: web
+    name: smartgraindry
+    env: dotnet
+    region: oregon
+    runtime: dotnetcore
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet out/SmartGrainDry.dll
+    envVars:
+      - key: DOTNET_VERSION
+        value: 7.0
