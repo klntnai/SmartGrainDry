@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: smartgraindry
-    env: dotnet
-    buildCommand: dotnet publish -c Release -o out
-    startCommand: dotnet out/SmartGrainDry.dll
