@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|c:\\users\\klint\\source\\repos\\smartgraindry\\smartgraindry\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|solutionrelative:smartgraindry\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|c:\\users\\klint\\source\\repos\\smartgraindry\\smartgraindry\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|solutionrelative:smartgraindry\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|c:\\users\\klint\\source\\repos\\smartgraindry\\smartgraindry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|solutionrelative:smartgraindry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|c:\\users\\klint\\source\\repos\\smartgraindry\\smartgraindry\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|solutionrelative:smartgraindry\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|c:\\users\\klint\\source\\repos\\smartgraindry\\smartgraindry\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7FF211B6-AD6B-462C-8D29-8E17D8470120}|SmartGrainDry\\SmartGrainDry.csproj|solutionrelative:smartgraindry\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartGrainDry\\appsettings.json",
+              "ToolTip": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\appsettings.json",
+              "RelativeToolTip": "SmartGrainDry\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T13:59:51.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SmartGrainDry\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SmartGrainDry\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T13:58:23.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "firebase.json",
+              "DocumentMoniker": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\firebase.json",
+              "RelativeDocumentMoniker": "firebase.json",
+              "ToolTip": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\firebase.json",
+              "RelativeToolTip": "firebase.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T11:25:43.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SmartGrainDry\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SmartGrainDry\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:10:17.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartGrainDry\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SmartGrainDry\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:06:28.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SmartGrainDry\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SmartGrainDry\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T15:19:04.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

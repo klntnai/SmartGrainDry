@@ -1,0 +1,7 @@
+C:\Users\Klint\source\repos\SmartGrainDry\firebase-deploy\SmartGrainDry.exe
+C:\Users\Klint\source\repos\SmartGrainDry\firebase-deploy\appsettings.Development.json
+C:\Users\Klint\source\repos\SmartGrainDry\firebase-deploy\appsettings.json
+C:\Users\Klint\source\repos\SmartGrainDry\firebase-deploy\SmartGrainDry.dll
+C:\Users\Klint\source\repos\SmartGrainDry\firebase-deploy\SmartGrainDry.deps.json
+C:\Users\Klint\source\repos\SmartGrainDry\firebase-deploy\SmartGrainDry.runtimeconfig.json
+C:\Users\Klint\source\repos\SmartGrainDry\firebase-deploy\SmartGrainDry.pdb
