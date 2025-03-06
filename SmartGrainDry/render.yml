@@ -4,5 +4,6 @@ services:
     name: smartgraindry
     env: dotnet
     region: oregon
+    runtime: dotnetcore
     buildCommand: dotnet publish -c Release -o out
     startCommand: dotnet out/SmartGrainDry.dll
