@@ -47,5 +47,5 @@ jobs:
           curl -X POST \
             -H "Authorization: Bearer $RENDER_API_KEY" \
             -F "serviceId=SmartGrainDry" \
-            -F "artifact=@build/build.tar.gz" \
+            -F "artifact=@build.tar.gz" \
             https://api.render.com/v1/services/SmartGrainDry/deploys
