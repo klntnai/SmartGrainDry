@@ -31,4 +31,4 @@ c:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\obj\Debug\net8.0\refint\
 c:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\obj\Debug\net8.0\SmartGrainDry.pdb
 c:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\obj\Debug\net8.0\SmartGrainDry.genruntimeconfig.cache
 c:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\obj\Debug\net8.0\ref\SmartGrainDry.dll
-C:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+c:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\obj\Debug\net8.0\SmartGrainDry.sourcelink.json
