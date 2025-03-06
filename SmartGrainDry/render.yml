@@ -7,3 +7,6 @@ services:
     runtime: dotnetcore
     buildCommand: dotnet publish -c Release -o out
     startCommand: dotnet out/SmartGrainDry.dll
+    envVars:
+      - key: DOTNET_VERSION
+        value: 7.0
