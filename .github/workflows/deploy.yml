@@ -47,7 +47,6 @@ jobs:
         env:
           RENDER_API_KEY: ${{ secrets.RENDER_API_KEY }}
         run: |
-          mv build build.tar.gz
           curl -X POST \
             -H "Authorization: Bearer $RENDER_API_KEY" \
             -F "serviceId=SmartGrainDry" \
