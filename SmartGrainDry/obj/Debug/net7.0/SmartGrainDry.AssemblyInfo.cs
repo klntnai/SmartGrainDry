@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartGrainDry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb3c71a819e5a7b8391d3e93b702747847bf790b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+338121b68605861f26f1984914f33da53ba4635a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartGrainDry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartGrainDry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
