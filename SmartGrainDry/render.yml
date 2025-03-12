@@ -5,3 +5,6 @@ services:
     env: docker
     region: oregon
     dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PORT
+        value: 80
