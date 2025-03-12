@@ -1,0 +1,99 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <!-- AdminLTE CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/css/adminlte.min.css">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+
+
+
+
+    <!-- Include Firebase SDK -->
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js"></script>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
+  import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyD-hUAjeSKQBVLgtehit0r7VfLrif97i5Y",
+    authDomain: "smartgraindryer.firebaseapp.com",
+    databaseURL: "https://smartgraindryer-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "smartgraindryer",
+    storageBucket: "smartgraindryer.appspot.com",
+    messagingSenderId: "534110876066",
+    appId: "1:534110876066:web:bc51a3553503feeb7042fb",
+    measurementId: "G-1JS7CZN9E8"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const database = getDatabase(app);
+
+  const tempRef = ref(database, 'sensor/temperature');
+  const humRef = ref(database, 'sensor/humidity');
+
+  onValue(tempRef, (snapshot) => {
+    const temp = snapshot.val();
+    document.getElementById("temperature-value").innerText = temp + "°C";
+  });
+
+  onValue(humRef, (snapshot) => {
+    const hum = snapshot.val();
+    document.getElementById("humidity-value").innerText = hum + "%";
+  });
+</script>
+
+</head>
+<body>
+    <div class="container d-flex flex-column justify-content-center align-items-center min-vh-100">
+        <img src="logo.png" alt="Smart Solar-Powered IoT Grain Dryer" class="logo">
+        <h2>DASHBOARD</h2>
+        <p>Current Status</p>
+
+        <!-- Temperature Box -->
+        <div class="small-box bg-info timer-box">
+            <div class="inner">
+                <h3 id="temperature-value">--°C</h3>
+                <p>Temperature</p>
+            </div>
+            <div class="icon">
+                <i class="fas fa-thermometer-half"></i>
+            </div>
+        </div>
+
+        <!-- Humidity Box -->
+        <div class="small-box bg-success timer-box">
+            <div class="inner">
+                <h3 id="humidity-value">--%</h3>
+                <p>Humidity</p>
+            </div>
+            <div class="icon">
+                <i class="fas fa-tint"></i>
+            </div>
+        </div>
+
+        <!-- Timer Box -->
+        <div class="small-box bg-warning timer-box">
+            <div class="inner">
+                <h3>1:34:08</h3>
+                <p>Drying Time Left</p>
+            </div>
+            <div class="icon">
+                <i class="fas fa-clock"></i>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

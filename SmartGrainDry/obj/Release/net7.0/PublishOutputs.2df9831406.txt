@@ -1,0 +1,7 @@
+C:\Users\Klint\source\repos\SmartGrainDry\out\SmartGrainDry.exe
+C:\Users\Klint\source\repos\SmartGrainDry\out\appsettings.Development.json
+C:\Users\Klint\source\repos\SmartGrainDry\out\appsettings.json
+C:\Users\Klint\source\repos\SmartGrainDry\out\SmartGrainDry.dll
+C:\Users\Klint\source\repos\SmartGrainDry\out\SmartGrainDry.deps.json
+C:\Users\Klint\source\repos\SmartGrainDry\out\SmartGrainDry.runtimeconfig.json
+C:\Users\Klint\source\repos\SmartGrainDry\out\SmartGrainDry.pdb

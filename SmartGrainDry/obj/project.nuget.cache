@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbcT6R0dplU=",
+  "dgSpecHash": "oTPH4tYbuC4=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj",
+  "projectFilePath": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Klint\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\Klint\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
