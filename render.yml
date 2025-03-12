@@ -1,12 +1,10 @@
-# filepath: c:\Users\Klint\source\repos\SmartGrainDry\SmartGrainDry\render.yml
+# filepath: c:\Users\Klint\source\repos\SmartGrainDry\render.yml
 services:
   - type: web
     name: smartgraindry
-    env: dotnet
+    env: docker
     region: oregon
-    runtime: dotnetcore
-    buildCommand: dotnet publish -c Release -o out
-    startCommand: dotnet out/SmartGrainDry.dll
+    dockerfilePath: ./Dockerfile
     envVars:
-      - key: DOTNET_VERSION
-        value: 7.0
+      - key: PORT
+        value: 80

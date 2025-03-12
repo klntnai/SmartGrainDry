@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj": {}
+    "c:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj": {
+    "c:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj",
+        "projectUniqueName": "c:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj",
         "projectName": "SmartGrainDry",
-        "projectPath": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj",
+        "projectPath": "c:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\SmartGrainDry.csproj",
         "packagesPath": "C:\\Users\\Klint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\obj\\",
+        "outputPath": "c:\\Users\\Klint\\source\\repos\\SmartGrainDry\\SmartGrainDry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
